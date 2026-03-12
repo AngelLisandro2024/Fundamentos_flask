@@ -21,4 +21,4 @@ Este repositorio contiene las bases fundamentales del desarrollo web con **Flask
 ---
 
 ## 👨‍💻 Sobre mí
-**Ángel Fernández** *Estudiante de Informática - Venezuela* Buscando siempre perfeccionar las bases para construir sistemas robustos. ¡Disponible para proyectos!
+**Ángel Fernández** *TSU de Informática - Venezuela* Buscando siempre perfeccionar las bases para construir sistemas robustos. ¡Disponible para proyectos!
